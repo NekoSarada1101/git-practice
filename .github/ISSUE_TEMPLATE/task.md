@@ -4,6 +4,7 @@ about: タスクの内容を記す
 title: 'task_○○'
 labels: 'task'
 assignees: ''
+project: "test"
 
 ---
 

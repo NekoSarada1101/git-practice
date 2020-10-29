@@ -1,3 +1,10 @@
+---
+title: 'task_○○'
+assignees: 'Sarada1101'
+project: "test"
+
+---
+
 ## issue 
 <!-- 対応するissue番号を記述する -->
 #
